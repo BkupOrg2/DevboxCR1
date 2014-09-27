@@ -133,6 +133,7 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+<<<<<<< HEAD
         <fullName>Establishment_Date__c</fullName>
         <externalId>false</externalId>
         <label>Establishment Date</label>
@@ -141,6 +142,8 @@
         <type>Date</type>
     </fields>
     <fields>
+=======
+>>>>>>> 552197139bcc18695db26290f7e143cd808b7dc7
         <fullName>Fax</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>

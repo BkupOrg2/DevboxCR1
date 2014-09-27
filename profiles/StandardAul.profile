@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <applicationVisibilities>
+<<<<<<< HEAD
+=======
+        <application>NIMBUS</application>
+        <default>false</default>
+        <visible>false</visible>
+    </applicationVisibilities>
+    <applicationVisibilities>
+>>>>>>> 552197139bcc18695db26290f7e143cd808b7dc7
         <application>standard__AppLauncher</application>
         <default>false</default>
         <visible>false</visible>
@@ -148,11 +156,14 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+<<<<<<< HEAD
         <field>Account.Ordered__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+=======
+>>>>>>> 552197139bcc18695db26290f7e143cd808b7dc7
         <field>Account.Ownership</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -588,11 +599,14 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+<<<<<<< HEAD
         <field>Contact.Establishment_Date__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+=======
+>>>>>>> 552197139bcc18695db26290f7e143cd808b7dc7
         <field>Contact.Fax</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1223,6 +1237,7 @@
         <object>Idea</object>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
+<<<<<<< HEAD
     <pageAccesses>
         <apexPage>Test</apexPage>
         <enabled>false</enabled>
@@ -1231,6 +1246,8 @@
         <apexPage>Test2</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
+=======
+>>>>>>> 552197139bcc18695db26290f7e143cd808b7dc7
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>

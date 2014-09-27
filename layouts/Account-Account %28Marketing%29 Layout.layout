@@ -31,10 +31,13 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
+<<<<<<< HEAD
                 <field>Ordered__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
+=======
+>>>>>>> 552197139bcc18695db26290f7e143cd808b7dc7
                 <field>Establishment_Date__c</field>
             </layoutItems>
         </layoutColumns>
