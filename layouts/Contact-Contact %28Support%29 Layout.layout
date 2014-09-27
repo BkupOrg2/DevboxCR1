@@ -37,13 +37,10 @@
                 <behavior>Edit</behavior>
                 <field>Level__c</field>
             </layoutItems>
-<<<<<<< HEAD
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Establishment_Date__c</field>
             </layoutItems>
-=======
->>>>>>> 552197139bcc18695db26290f7e143cd808b7dc7
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

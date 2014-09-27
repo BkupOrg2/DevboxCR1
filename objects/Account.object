@@ -352,7 +352,6 @@
         <unique>false</unique>
     </fields>
     <fields>
-<<<<<<< HEAD
         <fullName>Ordered__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
@@ -361,8 +360,6 @@
         <type>Checkbox</type>
     </fields>
     <fields>
-=======
->>>>>>> 552197139bcc18695db26290f7e143cd808b7dc7
         <fullName>OwnerId</fullName>
         <trackFeedHistory>true</trackFeedHistory>
         <type>Lookup</type>
