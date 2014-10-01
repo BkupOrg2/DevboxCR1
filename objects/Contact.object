@@ -149,6 +149,14 @@
         <type>Date</type>
     </fields>
     <fields>
+        <fullName>Exam_Date__c</fullName>
+        <externalId>false</externalId>
+        <label>Exam Date</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>DateTime</type>
+    </fields>
+    <fields>
         <fullName>Fax</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
