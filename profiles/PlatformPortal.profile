@@ -1213,6 +1213,7 @@
         <apexPage>Test2</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
+<<<<<<< HEAD
     <pageAccesses>
         <apexPage>Test3</apexPage>
         <enabled>false</enabled>
@@ -1221,6 +1222,8 @@
         <apexPage>Test4</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
+=======
+>>>>>>> 1eb67cdd3d4baf9a2c3af129f63d4648fb99fe7c
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>

@@ -1,6 +1,10 @@
 <apex:page >
   <!-- Begin Default Content REMOVE THIS -->
+<<<<<<< HEAD
   <h1>Congratulations NYC NY UT </h1>
+=======
+  <h1>Congratulations NYC USA 11005</h1>
+>>>>>>> 1eb67cdd3d4baf9a2c3af129f63d4648fb99fe7c
   This is your new Page
   <!-- End Default Content REMOVE THIS -->
 </apex:page>
