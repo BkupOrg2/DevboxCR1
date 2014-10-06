@@ -15,6 +15,10 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>FileType</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
         <fullName>Language</fullName>
         <trackHistory>false</trackHistory>
     </fields>
